@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![QuickKart Performance Dashboard](Screenshot(20).png)
+![QuickKart Performance Dashboard](./Screenshot%20(20).png)
 
 ## 📌 Project Overview
 This project is an interactive Power BI dashboard created to analyze QuickKart's FY-2026 sales performance. The dashboard provides key business insights such as revenue, orders, product performance, category analysis, city-wise sales, and pricing trends.
